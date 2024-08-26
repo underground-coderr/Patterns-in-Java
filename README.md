@@ -2,6 +2,7 @@
 This repository contains Java code for various patterns that are helpful in building logic. The code examples are designed to strengthen problem-solving skills and provide a solid foundation for understanding complex algorithms.
 
 following below are the outputs of the code for you to look which:
+NOTE: if you facing trouble seeing it carefully watch it in code view
 
 1) rhombus Pattern:
 
